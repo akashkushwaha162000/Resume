@@ -1,0 +1,129 @@
+{
+    "basics": {
+        "name": "Akash Kushwaha",
+        "label": "Student",
+        "picture": " ",
+        "email": "2019kuec2011@iiitkota.ac.in",
+        "phone": "+917521816092",
+        "website": " ",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronic and communication engineering. Building awesome WebApp. I have enthusiasm in front end web development, build many web pages.",
+        "location": {
+            "address": "kanpur",
+            "postalCode": "208017",
+            "city": "Kanpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": " ",
+                "url": " "
+            },
+            {
+                "network": "Github",
+                "username": "akashkushwaha162000",
+                "url": "https://github.com/akashkushwaha162000"
+            },
+            {
+                "network": "linkedin",
+                "username": "akash-kushwaha",
+                "url": "https://www.linkedin.com/in/akash-kushwaha-94b213201"
+            },
+            {
+                "network": "Instagram",
+                "username": "kushwaha_ak78",
+                "url": " "
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota.",
+            "highlights": []
+        },
+        {
+            "company": " ",
+            "position": " ",
+            "website": " ",
+            "startDate": "",
+            "endDate": "",
+            "summary": " ",
+            "highlights": []
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": " ",
+            "position": " ",
+            "website": " ",
+            "startDate": "",
+            "endDate": " ",
+            "summary": " ",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2019-08-05",
+            "endDate": "2023-11-07",
+            "gpa": "7.6",
+            "courses": [
+                "Electronics and Communication engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": " ",
+            "awarder": " " ,
+            "date": ""
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "C/C++",
+                "Java",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ],
+    "references": []
+}
